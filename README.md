@@ -1,5 +1,8 @@
 # decodeportugal
 
+Questions
+- XXX
+
 Main things to keep in mind
 - Sequence and Timmings
 - Incorporation
