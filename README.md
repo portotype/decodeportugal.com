@@ -36,7 +36,6 @@ Main things to keep in mind:
 - Hiring
 - Awarding shares
 
---- 
 
 # Timings and Sequencing
 
