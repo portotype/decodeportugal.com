@@ -65,6 +65,7 @@ XXXXX
 Important concepts
 - local payments
 - local banks
+- MB, RefMB, MBWay, TSU, Pagamentos ao Estado, MB ATM
 ```
 
 To operate in Portugal as a company, you must open an account with a Portuguese Bank. That's mostly because there's local payment methods which are mandatory and not available in international banks.
