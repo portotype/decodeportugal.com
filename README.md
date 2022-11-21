@@ -47,6 +47,7 @@ Opening a company is fast, but be aware that it is not as fast as advertised.
 
 While there is a concept called "You can't get a company operating instantly. It takes about 1 - 1.5 months before you can actually operate in Portugal.
 
+Explain sequence.
 
 # Incorporation
 
