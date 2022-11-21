@@ -13,10 +13,12 @@ Main things to keep in mind:
     - Name
     - CAE
     - Registo Beneficiario
+    - Certidão do Registo Comercial
     - as a foreigner, get a NIF
     - if your company is registering a child, also get a NIF)
     - Livro de Atas
     - TOC and ROC
+    - Carimbo
 - Accounting
     - TOC and ROC
     - SAFT
@@ -45,19 +47,28 @@ Main things to keep in mind:
 
 Opening a company is fast, but be aware that it is not as fast as advertised. 
 
-While there is a concept called "You can't get a company operating instantly. It takes about 1 - 1.5 months before you can actually operate in Portugal.
+Opening a company in here is meant as being ready to operate:
+- issue invoices.
+- accept payments.
+- make purchases with your bank balance.
+- hire people and pay them.
+
+While there is a concept called "Company within the hour" (Empresa na Hora), in reality you can't get a company operating instantly in the meaning set above. It takes about 1 - 1.5 months before you can actually operate in Portugal.
 
 Explain sequence.
 
-# Incorporation
-
-Opening a company is fast, but be aware that it is not as fast as advertised. 
-
-While there is a concept called "You can't get a company operating instantly. It takes about 1 - 1.5 months before you can actually operate in Portugal.
+XXX
 
 # Power of Attorney
 
-XXXXX
+In Portugal, representation by Power of Attorney (PoA) is called "Procuração". A "Procuração" will enable your lawyer (or anyone else) to do operations for you. They can be used to open a company, close a company and everything in between. 
+
+Generally the more powerful the powers enshrined in the PoA, the more specific it should be and careful you should be.
+
+# Incorporation
+
+XXXX
+
 
 # Banking
 
