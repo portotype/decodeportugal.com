@@ -81,7 +81,7 @@ International payment standards:
 
 Local Payments:
 - Ref MB, or Referência Multibanco. Code to make a payment of a specific amount to a specific entiy. 5 digits for the entity plus 9 digits for the payment plus the amount. Used by Utilities, the State and other companies. It's available on online bank services from PT banks and on MB ATMs. 
-- MBWay: not super relevant as mostly these are B2C payments. If you are customer facing, your clients may request it, for which you can receive it via a mobile phone or a payment terminal. Either way, to get an address you will need to link the MBWay service with a PT bank account.
+- MBWay: not super relevant as mostly these are B2C payments. If your business is customer facing (B2C), your clients may well request it. In that case, you can provide this type of payment via a mobile phone or a payment terminal (or web interface, but why would you). Either way, to get an address to receive the money you will need to link the MBWay service with a bank account, and currently only PT bank accounts can link to it.
 - "Pagamentos ao Estado" (Payments to the State). It's a single code with 15 digits. It's available on online bank services from PT banks and on MB ATMs. It's used to pay for taxes, interest in payments, penalties and fines.
 - "Taxa Social Única (TSU)" or "Pagamentos à Segurança Social" (Social Security Payments). Used to make contributions to Social Security by the company and for the employees (reduced from their income). That is a custom interface available on online banks and on MB ATMs. You usually pick the receiving identity (there's 2), a month and year, your companies fiscal IF and the amount. 
 
