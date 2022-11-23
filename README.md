@@ -6,13 +6,13 @@ This is a short guide on opening and running companies in Portugal.
 
 Main things to keep in mind:
 - Timmings. 
-- Representation by Power of Attorney. 
+- ✔️ Representation by Power of Attorney. 
 - Incorporation
     - Company types
     - SHA
     - Name
     - CAE
-    - Registo Beneficiario
+    - Registo Beneficiario (RCBE)
     - Certidão do Registo Comercial
     - as a foreigner, get a NIF
     - if your company is registering a child, also get a NIF)
@@ -20,9 +20,10 @@ Main things to keep in mind:
     - TOC and ROC
     - Carimbo
 - Accounting
+    - Accounts submissions and Yearly accounts submission
     - TOC and ROC
     - SAFT
-- Banking
+- ✔️ Banking
 - Contracts and Work
     - types
     - vacations 
@@ -53,17 +54,39 @@ Opening a company in here is meant as being ready to operate:
 - make purchases with your bank balance.
 - hire people and pay them.
 
-While there is a concept called "Company within the hour" (Empresa na Hora), in reality you can't get a company operating instantly in the meaning set above. It takes about 1 - 1.5 months before you can actually operate in Portugal.
+In Portugal there is a concept called "Company within the hour" (Empresa na Hora), which opens part of the company (in that meaning above) within 1 hour. In reality you can't get a company operating instantly with all of the elements above. It takes about 1 month before you can actually operate in Portugal.
 
-Explain sequence.
-
-XXX
+The sequence of registering a company is as follows.
+- Start the process:
+    - Online: has to be a laywer to start it. 225€ as of 2022-11-23.
+    - On the registering office: 360€ as of 2022-11-23. This can be done in "Conservatórias do Registo Comercial" and "Espaço de Empresas", some of which are in "Lojas do Cidadão" (where you can do several services). This has a slight
+- Pick the name.
+    - Pick the name from a pre-existing list in the go. 
+    - Pick the name yourself. Note: the legal name may be different from the name you use for the commercial activity. You can be called "Technical company 23, Lda" and use the name "Awesome Business".
+        - Non-urgent: can take up to 15 days for an answer. But the answer can be "no", if it collides with another firms name. You can do a test of similarity online. You can also appeal a negative decision. 75€ as of 2022-11-23.
+        - Urgent: 1 business day for an answer. 150€ as of 2022-11-23.
+- Pick the organization type: 
+    - The commercial organization types differ mostly on the financial responsiblities signed by the owners/partners.
+    - The main ones are:
+        - "Sociedade por Quotas": the typical Private Limited company, ending in name "Lda" or "Limitada". Minimum capital is 1€. Minimum 1 partner. If you're opening a personal company with just shareholder, it's typically this, and then it's called a "Unipessoal Lda" or "Unipessoal Limitada" or "Unip Lda".
+        - "Sociedade Anónima": another type of Limited company. Minimum capital is 50.000€. Minimum 4 registered partners.
+    - There's additional company types, among which "Sociedade em Nome Colectivo", "Sociedade em Comandita"; "Sociedade de Gestão de Participações Sociais (SGPS)" and others (european level entities). 
+    - There's also Associations of several types, mostly for non-profits.
+- Pick the start capital.
+- Pick the object of the company: it's purpose and finality. This is 1 sentence up to a few paragraphs. 
+    - Code of Economic Activity ("Código de Actividade Económica") (CAE). There's a main CAE and sub-codes. This is important as these codes will define accounting rules, what can be expensed and not, etc.
+- Pick an address for the headquarter ("Sede"). It can be your home. It can also be your lawyers or accountant office address (do check with them). It cannot be a foreign address.
+- 
 
 # Power of Attorney
 
 In Portugal, representation by Power of Attorney (PoA) is called "Procuração". A "Procuração" will enable your lawyer (or anyone else) to do operations for you. They can be used to open a company, close a company and everything in between. 
 
-Generally the more powerful the powers enshrined in the PoA, the more specific it should be and careful you should be.
+Generally the more powerful the powers enshrined in the PoA, the more specific it should be and careful you should be. In addition, there are several levels of formality of a PoA in Portugal. 
+- "Com reconhecimento de assinatura": with recognized signature of the titular of the powers to be granted.
+- "Autenticada": Authenticated, recognized signature of the titular of the powers to be granted.
+
+This authentication procedure is executed by anyone with Notary powers, which includes Notary offices and Lawyers. Check with your lawyer if they can do it.
 
 # Incorporation
 
