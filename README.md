@@ -16,6 +16,7 @@ Main things to keep in mind:
     - Registo Beneficiario (RCBE)
     - Certidão do Registo Comercial
     - as a foreigner, get a NIF
+    - can foreigners be investors, do they need a visa?
     - if your company is registering a child, also get a NIF.
     - Livro de Atas
     - TOC and ROC
@@ -39,6 +40,7 @@ Main things to keep in mind:
     - work insurance
     - teletrabalho
     - Fundo de compensacao
+    - can foreigners be workers, do they need a visa?
 - Leaves and rights
     - XXX 
 - Perks
