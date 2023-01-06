@@ -1,59 +1,16 @@
 # Decode Portugal
 
-⚠️ Work in Progress.
+
 
 This is a short guide on opening and running companies in Portugal.
 
-Main things to keep in mind:
+This is a Work in Progress ⚠️, we're about 1/3 of the way. Main topics:
 
-- Opening for business 
-    - ✔️ Process (10 steps)
-    - ✔️ Identification of parties
-    - ✔️ Registering a company
-    - ✔️ Name an official accountant
-    - ✔️ File company details on Beneficiary Register (RCBE).
-    - ✔️ Open a local Bank account.
-    - Register as open for business in the Tax Office ("Autoridade Tributária").
-    - Register as open for business in the Social Security ("Segurança Social").
-    - File the remuneration status of the General Manager.
-    - Sign a Shareholders agreement ("Parassocial"). This is optional, but most likely you will want to sign one with your investors and co-founders.
-    - Buy a ledger for the company decisions.
-    - Buy an official stamp for the company.
-- Operation
-    - Accounting
-        - Accounts submissions and Yearly accounts submission
-        - TOC and ROC
-        - SAFT
-    - Contracts
-        - Certidão Permanente.
-        - 
-    - ✔️ Banking
-- Contracts and Work
-    - types
-    - vacations 
-        - vacation upon exit. "one extra year".  
-    - acordos colectivos de trabalho
-        - vacations
-    - templates 
-- Compensation and Costs
-    - contract types
-    - subsidio de alimentaçao
-    - work insurance
-    - teletrabalho
-    - Fundo de compensacao
-    - can foreigners be workers, do they need a visa?
-- Leaves and rights
-    - XXX 
-- Perks
-- Hiring
-- Awarding shares
-
-Tips
-- Things that speed up the process;
-    - If you want a custom name for your company, it pays off to ask for it before you start registering the company, or to go with a default name and after you register the company to ask for a change in the name.
+- ✔️ Opening for business 
+- Running a business
+- Closing a business 
   
 # Power of Representation
-
 
 In Portugal, representation by Power of Representation is called "Procuração". A "Procuração" will enable your lawyer or anyone else to do operations for you. They can be used to open a company, close a company and everything in between. 
 
@@ -180,7 +137,8 @@ To know: You will also need these elements for any companies and persons who are
 1. **Result** 
     - With the correct registration of a company, you will get:
     1. a NIPC and NIF, which is 1 number that identify the company for 2 purposes: legal (commercial register, NIPC) and tax reasons (tax authority, AT). In Portugal the code is the same, while in other countries these are separate numbers. You also get a card with this information, which you don't need for the operation of the company.
-    2. the code to access the Certificate of the Commercial Register ("Certidão Permanente Comercial"). It's a 12 digit code which you can share with others. This initial code expires in 3 months, and you can ask for a new one, and you can get a Portuguese or English version. Recommendation: Always get the english, 4-year version.
+    2. the code to access the Certificate of the Commercial Register ("
+    Permanente Comercial"). It's a 12 digit code which you can share with others. This initial code expires in 3 months, and you can ask for a new one, and you can get a Portuguese or English version. Recommendation: Always get the english, 4-year version.
 
 ### Name an official accountant
 
@@ -328,3 +286,38 @@ If you are buying it, we recommend you order 2 stamps, one to keep at home.
 Things to change
 - Stamp
 - RCBE: no requirement to confirm every year.
+
+# Running a business
+
+    - Accounting
+        - Accounts submissions and Yearly accounts submission
+        - TOC and ROC
+        - SAFT & software
+    - Contracts
+        - Certidão Permanente.
+    - ✔️ Banking
+    - HR
+        - Hiring & Contracts
+            - Compensation and Costs
+            - contract types
+            - subsidio de alimentaçao
+            - work insurance
+            - teletrabalho
+            - Fundo de compensacao
+            - Bonus, prizes
+            - can foreigners be workers, do they need a visa?
+            - Perks & tax optimization
+        - Awarding shares (Stock Options)
+    - HR
+        - vacations 
+            - vacation upon exit. "one extra year".  
+        - acordos colectivos de trabalho
+        - holidays
+        - schedule, worktime registry
+        - vacations
+        - Leaves (sick, parental, "sem vencimento")
+        - templates 
+
+# Closing a business
+
+xxxx
