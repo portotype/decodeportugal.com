@@ -87,7 +87,7 @@ To start operating you will need to do the following:
 1. File company details on Beneficiary Register (RCBE).
 1. Open a local Bank account.
 1. Register as open for business in the Tax Office ("Autoridade Tributária").
-1. File the remuneration status of the General Manager.
+1. File the Social Security status of the General Manager.
 1. Sign a Shareholders agreement ("Parassocial"). This is optional, but most likely you will want to sign one with your investors and co-founders.
 1. Buy a ledger for the company decisions.
 1. Buy an official stamp for the company.
@@ -259,16 +259,71 @@ There's 4 paths:
     - Your laywer goes there, with powers of representation, and does it for you in the setup of the previous case.
     - The Certified Accountant can go there with the request for opening activity, signed by the Managing Director and with a copy of the MD's personal ID.
 
-### File the remuneration status of the General Manager.
+### File the Social Security status of the General Manager.
 
+After you open the company, the Social Security office will send the company a letter asserting a status to the General Manager, relative to an existence the employment of General Manager and its implied social security charges.
 
+- They will presume you get a minimum wage and therefore that you will have to contribute Social Security charges according to that value.
+- However, if you have employment elsewhere, and therefore are already paying social security charges there, you can be exempted.
 
-### more
+You will communicate or validate your status via registered mail.
 
+### Sign a Shareholders agreement (“Parassocial”). 
 
-- ⚠️ With that, you do, in order, 1) RCBE, 2) you get RCBE code, 3) with RCBE + Certidao Permanente => open bank account. Who can do it. 4) Abrir activitidade in Social Social and Tax Office. 5) Buy a livro de atas. Buy a 6) ⚠️ if managers wont get a contract and a salary (example they are foreigners) this has to be declared in social security through a General Management decision (Livro Atas).
+This is optional, but most likely you will want to sign one with your investors and co-founders.
 
-        - "Parassocial". This is a Shareholders Agreement (SHA): A private agreement regulating the internal management of the company in detail, including for example the salary of founders, board meetings and procedures, conditions for future investment rounds and decisions and more.
+This is a documente where typically you specify: 
+- Who are the parties (investors, shareholders, managers), their holdings and their classification. This is important because several groups will have different responsibilities and powers relative to their holdings: seed, seed preferred, series a, series a preferred, founders, employees, indepedent board members.
+- Rules of Procedure: which decisions managment is entitled to take and how. 
+    - It's commonplace that management can take any decisions and hiring with a cost up to a certain amount within the yearly budget, and that outside these threshold you need a simple majority (or another arrangement) within the Board.
+    - It's common that management cannot change it's salary without the Board approval too.
+- information rights: what information you have to send your investors/ the board.
+    - It's commonplace that you have to send some kind of cash position, for example cash balance every month (with or without bank screenshot), and yearly certified accounts.
+    - It's also common that you will specify what constitutes a good leaver and a bad leaver.
+- The starting salary of Management.
+- Exclusivity and non-compete clauses.
+    - It's common that you are restricted from having another employment, and positions in related startups with more than x stake (2%, 10%, it varies).
+
+### Buy a ledger for the company decisions.
+
+In Portugal you are required to maintain official minutes of key company decisions and events.
+
+- The most common format is to buy the green book. Example. [here](http://loja.jufil.pt/product/1-atas-a4).
+- You can also write individual minutes, if they respect several rules: 
+    - they have to be numbered;
+    - they have to be dated and signed;
+    - you have to identify the company;
+    - if not all shareholders are present, they have to be announced prior to the meeting, with a certain head time.
+    - you have to list people who were present, their shareholdings;
+    - you have to list the place (address) where the meeting is taking place;
+    - you have to include the content of the decisions, votes and relevant information.
+    - all pages and lines should be truncated to avoid adding new text or altering the text after signing;
+- Decisions which will have to be on the minutes (Atas).
+    - Remuneration of management and changes in management;
+    - Yearly approval of finances; 
+    - Capital increases and other changes in shareholder structure and composition;
+    - Changes in name, changes in headquarters;
+
+We found one online provider, not tested yet: [ArkeyvAta](https://www.arkeyvata.com/).
+
+### Buy an official stamp for the company.
+
+While stamps are not in the law, many private contracts and public entities will ask you to stamp certain documents.
+
+- to open a bank account and register some products in the bank.
+- contracts with utilities (water, electricity, internet, gas, etc).
+- social security.
+
+The stamp should include:
+- company name
+- company legal name (if different)
+- address
+- Fiscal id (which is the company id) called "NIF"
+- optional: contacts.
+
+If you are buying it, we recommend you order 2 stamps, one to keep at home.
+
+### changes
 
 Things to change
 - Stamp
