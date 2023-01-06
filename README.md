@@ -7,7 +7,7 @@ This is a short guide on opening and running companies in Portugal.
 Main things to keep in mind:
 
 - Opening for business 
-    - ✔️ Process (11 steps)
+    - ✔️ Process (10 steps)
     - ✔️ Identification of parties
     - ✔️ Registering a company
     - ✔️ Name an official accountant
@@ -59,7 +59,7 @@ In Portugal, representation by Power of Representation is called "Procuração".
 
 Generally the more powerful the powers enshrined in the PoR, the more specific it should be and careful you should be. In addition, there are several levels of formality of a PoR in Portugal. 
 - "Com reconhecimento de assinatura": with recognized signature of the titular of the powers to be granted.
-- "Autenticada": Authenticated, recognized signature of the titular of the powers to be granted.
+- "Autenticada": Authenticated signature. The authentication attests that the person signed and wanteed the content of the document, in person.
 
 This authentication procedure is executed by anyone with Notary powers, which includes Notary offices and Lawyers. Check with your lawyer if they can do it.
 
@@ -81,21 +81,20 @@ In the sense of an entrepreneur, Opening a company is being ready to operate:
 In Portugal we have a process called "Company within the Hour" ("Empresa na Hora"), which opens part of the company within 1 hour. In reality you can't get a company operating instantly in the sense of the activities above. You should plan that it may take up to 1 month before you can actually operate in Portugal.
 
 To start operating you will need to do the following:
-1. Collect required identification of all parties.
+1. Identify all parties.
 1. Register your company.
-1. Name your official accountant (TOC).
+1. Name your certified accountant (CC).
 1. File company details on Beneficiary Register (RCBE).
 1. Open a local Bank account.
 1. Register as open for business in the Tax Office ("Autoridade Tributária").
-1. Register as open for business in the Social Security ("Segurança Social").
 1. File the remuneration status of the General Manager.
 1. Sign a Shareholders agreement ("Parassocial"). This is optional, but most likely you will want to sign one with your investors and co-founders.
 1. Buy a ledger for the company decisions.
-2. Buy an official stamp for the company.
+1. Buy an official stamp for the company.
 
 To accomplish that you will need to gather the following people:
 1. A lawyer. Required if you're registering a company online, and very recommended for everything else.
-2. An accountant (TOC). Required to start operating, and it's faster to start operating if you already know who it's going to be in the step of filing the registration of the company.
+2. A certified accountant (CC). Required to start operating, and it's faster to start operating if you already know who it's going to be in the step of filing the registration of the company.
 3. All of the Partners and General Managers (who can overlap). For persons, you will need identification, place of birth and proof of address (foreigners). For companies, you will need a written deliberation that the company will invest, the commercial register and articles of association and a PT identification number (foreign companies). 
 4. All the effective beneficiaries of the stakes owned by shareholders.
 
@@ -140,7 +139,7 @@ To know: You will also need these elements for any companies and persons who are
         - To know: The Governing body of companies registrations is the Commercial Register ("Registo Comercial") of the IRN ("Instituto dos Registos e Notariado"). The IRN is a body of the Ministry of Justice in Portugal ("Ministério da Justiça").
         - To know: To fill in the Pacto Social and therefore register your company, you will file several informations that are detailed below.        
     - CAE: Code of Economic Activity. 
-    - Name your official accountant (TOC). This is optional but you may want to do it during the registration as it will speed up the process of Registering as Open for business in the tax authority.
+    - Name your certified accountant (CC). This is optional but you may want to do it during the registration as it will speed up the process of Registering as Open for business in the Tax Office and Social Security. If you do this here, then he can do those steps online automatically.
 1. **Pacto Social**
     1. **Type, Name and Address of the company.**
         1. The organization type.
@@ -175,9 +174,9 @@ To know: You will also need these elements for any companies and persons who are
     1. **Code of Economic Activity ("CAE")** or "Código de Actividade Económica".
         - To know: The CAE is a a code which identifies your economic activity. There's a main CAE and sub-codes which you can pick, generally 3. 
         - This is quite important as these codes will define some accounting rules, like what can be expensed and not, etc.
-    3. (Optional) **TOC**: 
-        - TOC are "Técnico Oficial de Contas", who is your official accountant. 
-        - You are not required to file a TOC when you register a company. But if you do it then, then the TOC can register the company as Open for Business with Tax Authority and Social Security online, without you having to go to the offices...
+    3. (Optional) **Certified Accountant**: 
+        - CC are "Contabilista Certificado", who is your official accountant. In the past this was called "Técnico Oficial de Contas" or TOC.
+        - You are not required to file a CC when you register a company. But if you do it then, then the CC can register the company as Open for Business with Tax Authority and Social Security online, without you having to go to the offices...
 1. **Result** 
     - With the correct registration of a company, you will get:
     1. a NIPC and NIF, which is 1 number that identify the company for 2 purposes: legal (commercial register, NIPC) and tax reasons (tax authority, AT). In Portugal the code is the same, while in other countries these are separate numbers. You also get a card with this information, which you don't need for the operation of the company.
@@ -185,11 +184,11 @@ To know: You will also need these elements for any companies and persons who are
 
 ### Name an official accountant
 
-- Your official accountant in Portugal is called the TOC, or "Técnico Oficial de Contas". 
-- In a Limited and SAs, you are required to have a TOC to operate. 
-- You can name a TOC in either of 2 moments
-    - During the company registration. If you do it then, then the TOC can register your company as Open for Business with Tax Authority and Social Security online. This option works the same wether you Register the Company Online, in a Public Registration Office or in a Notary.
-    - If you don't name a TOC during company registration, The manager of the company must go to the Tax Authority and Social Security offices, or alternatively sign a Power of Representation for the Accountant to be able to do it on his behalf. 
+- Your official accountant in Portugal is called the "Contabilista Certificado".
+- In a Limited and SAs, you are required to have a CC to operate. 
+- You can name a CC in either of 2 moments
+    - During the company registration. If you do it then, then the CC can register your company as Open for Business with Tax Authority and Social Security online. This option works the same wether you Register the Company Online, in a Public Registration Office or in a Notary.
+    - If you don't name a CC during company registration, The manager of the company must go to the Tax Authority and Social Security offices, or alternatively sign a Power of Representation for the Accountant to be able to do it on his behalf. 
 - To name an official accountant, you need to provide the following information:
     - fiscal ID of you accountant (NIF);
     - Professional license of accountant ("número da Cédula Profissional");
@@ -204,7 +203,7 @@ You must do it online in the RCBE website.
 - The most common way is that your lawyer or accountant will do this for you.
     - You will need the identification materials mentioned in  "Identification of parties" for all shareholders, people or companies and the respective effictive people behind them. In this context, effective means a position of at least 25%, even though there are finer details to this definition.
     - You will also need to add emails for each person.
-- You can do it yourself if you have a EU ID card with compatible reader. (Forget about this option).
+- You can do it yourself if you have a EU ID card with compatible reader. (Forget about this option if you have foreigners).
 - To know: you have to update this information every year.
 
 Result
@@ -251,6 +250,18 @@ Bank accounts
 - I expect that an online first bank for companies will emerge in the coming decade.
 - Example: For all my companies I currently use the bank BPI with it's offering for companies called BPI Empresas, which you access on http://bpinetempresas.pt. 
 
+### Register as open for business in the Tax Office (“Autoridade Tributária”).
+
+There's 4 paths:
+- If you filed a Certified Accountant (CC) during the registration phase, he can open the activity online.
+- If not:
+    - You go there the Managing Director (Gerente or Administrador) and ask to open activity, and deliver a stamp-sticker ("Vinheta") signed by the Certified Accountant.
+    - Your laywer goes there, with powers of representation, and does it for you in the setup of the previous case.
+    - The Certified Accountant can go there with the request for opening activity, signed by the Managing Director and with a copy of the MD's personal ID.
+
+### File the remuneration status of the General Manager.
+
+
 
 ### more
 
@@ -259,3 +270,6 @@ Bank accounts
 
         - "Parassocial". This is a Shareholders Agreement (SHA): A private agreement regulating the internal management of the company in detail, including for example the salary of founders, board meetings and procedures, conditions for future investment rounds and decisions and more.
 
+Things to change
+- Stamp
+- RCBE: no requirement to confirm every year.
