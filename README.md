@@ -10,8 +10,9 @@ This is a Work in Progress ⚠️, we're about 1/3 of the way. Main topics:
 - Running a business
 - Closing a business 
   
-# Power of Representation
+# General
 
+<details><summary>Power of Representation</summary>
 In Portugal, representation by Power of Representation is called "Procuração". A "Procuração" will enable your lawyer or anyone else to do operations for you. They can be used to open a company, close a company and everything in between. 
 
 Generally the more powerful the powers enshrined in the PoR, the more specific it should be and careful you should be. In addition, there are several levels of formality of a PoR in Portugal. 
@@ -21,7 +22,8 @@ Generally the more powerful the powers enshrined in the PoR, the more specific i
 This authentication procedure is executed by anyone with Notary powers, which includes Notary offices and Lawyers. Check with your lawyer if they can do it.
 
 When you grant powers to a lawyer it's called a Power of Attorney (PoA). The lawyers can do some operations that non-lawyers can't. Examples: Opening a company online or representing you in Court. 
-  
+
+</details>
 
 # Opening for Business
 
@@ -299,14 +301,9 @@ If you are buying it, we recommend you order 2 stamps, one to keep at home.
 
 </details>
 
-### changes
-
-Things to change
-- Stamp
-- RCBE: no requirement to confirm every year.
-
 # Running a business
 
+<details><summary>⚠️ WIP</summary>
     - Accounting
         - Accounts submissions and Yearly accounts submission
         - TOC and ROC
@@ -336,6 +333,22 @@ Things to change
         - Leaves (sick, parental, "sem vencimento")
         - templates 
 
+</details>
+  
 # Closing a business
 
-xxxx
+<details><summary>⚠️ WIP</summary>
+
+Nothing here yet.
+
+</details>
+    
+# How to make the process better.
+
+<details><summary>⚠️ WIP</summary>
+
+Things to change
+- Stamp
+- RCBE: no requirement to confirm every year.
+
+</details>
