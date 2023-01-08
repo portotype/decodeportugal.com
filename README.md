@@ -25,7 +25,7 @@ When you grant powers to a lawyer it's called a Power of Attorney (PoA). The law
 
 # Opening for Business
 
-### Process
+<details><summary>The Process.</summary>
 
 Opening a company is fast, but be aware that it is not as fast as advertised. 
 
@@ -55,7 +55,9 @@ To accomplish that you will need to gather the following people:
 3. All of the Partners and General Managers (who can overlap). For persons, you will need identification, place of birth and proof of address (foreigners). For companies, you will need a written deliberation that the company will invest, the commercial register and articles of association and a PT identification number (foreign companies). 
 4. All the effective beneficiaries of the stakes owned by shareholders.
 
-### Identification of parties
+</details>
+
+<details><summary>Identify relevant parties.</summary>
 
 You will need to collect several identification elements for all significant parties involved in the company. That includes the shareholders, be them people or companies, and General Managers. 
 
@@ -84,7 +86,9 @@ To know: You will also need these elements for any companies and persons who are
     - The Articles of Association/ Articles of Incorporation of that country of registration.
     - All documents must have a certified translation to Portuguese.
 
-### Registering a company
+</details>
+
+<details><summary>Register the company.</summary>
 
 1. **Where to register your company**. There's 3 separate places to register a company.
     - Online: It has to be a laywer doing it. It costs 225€ as of 2022-11-23. The company will have standard articles, which you can customize later.
@@ -140,7 +144,9 @@ To know: You will also need these elements for any companies and persons who are
     2. the code to access the Certificate of the Commercial Register ("
     Permanente Comercial"). It's a 12 digit code which you can share with others. This initial code expires in 3 months, and you can ask for a new one, and you can get a Portuguese or English version. Recommendation: Always get the english, 4-year version.
 
-### Name an official accountant
+</details>
+
+<details><summary>Name an official accountant.</summary>
 
 - Your official accountant in Portugal is called the "Contabilista Certificado".
 - In a Limited and SAs, you are required to have a CC to operate. 
@@ -152,8 +158,10 @@ To know: You will also need these elements for any companies and persons who are
     - Professional license of accountant ("número da Cédula Profissional");
     - address of the office of the accountant.
 - To Know: SA companies also need someone to certify accounts, called a ROC or "Revisor Oficial de Contas", alone or as part of a team called "Conselho Fiscal".
-        
-### File company details on Beneficiary Register
+
+</details>        
+
+<details><summary>File company details on Beneficiary Register.</summary>
 
 After you have a NIPC/NIF, you should file details of the effective beneficiaries of the company.
 
@@ -167,8 +175,9 @@ You must do it online in the RCBE website.
 Result
 - After submitting you immediately get an email with the declaration of RCBE, and a code.
 
+</details>
 
-### Open a local Bank account.
+<details><summary>Open a local Bank account.</summary>
 
 To operate in Portugal as a company, you must open an account with a Portuguese Bank. That's mostly because there's local payment methods which are mandatory and not available in international banks.
 
@@ -208,7 +217,8 @@ Bank accounts
 - I expect that an online first bank for companies will emerge in the coming decade.
 - Example: For all my companies I currently use the bank BPI with it's offering for companies called BPI Empresas, which you access on http://bpinetempresas.pt. 
 
-### Register as open for business in the Tax Office (“Autoridade Tributária”).
+</details>
+<details><summary>Register as open for business in the Tax Office (“Autoridade Tributária”).</summary>
 
 There's 4 paths:
 - If you filed a Certified Accountant (CC) during the registration phase, he can open the activity online.
@@ -217,7 +227,9 @@ There's 4 paths:
     - Your laywer goes there, with powers of representation, and does it for you in the setup of the previous case.
     - The Certified Accountant can go there with the request for opening activity, signed by the Managing Director and with a copy of the MD's personal ID.
 
-### File the Social Security status of the General Manager.
+</details>
+
+<details><summary>File the Social Security status of the General Manager.</summary>
 
 After you open the company, the Social Security office will send the company a letter asserting a status to the General Manager, relative to an existence the employment of General Manager and its implied social security charges.
 
@@ -226,7 +238,9 @@ After you open the company, the Social Security office will send the company a l
 
 You will communicate or validate your status via registered mail.
 
-### Sign a Shareholders agreement (“Parassocial”). 
+</details>
+
+<details><summary>Sign a Shareholders agreement (“Parassocial”).</summary>
 
 This is optional, but most likely you will want to sign one with your investors and co-founders.
 
@@ -242,7 +256,8 @@ This is a documente where typically you specify:
 - Exclusivity and non-compete clauses.
     - It's common that you are restricted from having another employment, and positions in related startups with more than x stake (2%, 10%, it varies).
 
-### Buy a ledger for the company decisions.
+</details>
+<details><summary>Buy a ledger for the company decisions.</summary>
 
 In Portugal you are required to maintain official minutes of key company decisions and events.
 
@@ -264,7 +279,8 @@ In Portugal you are required to maintain official minutes of key company decisio
 
 We found one online provider, not tested yet: [ArkeyvAta](https://www.arkeyvata.com/).
 
-### Buy an official stamp for the company.
+</details>
+<details><summary>Buy an official stamp for the company.</summary>
 
 While stamps are not in the law, many private contracts and public entities will ask you to stamp certain documents.
 
@@ -280,6 +296,8 @@ The stamp should include:
 - optional: contacts.
 
 If you are buying it, we recommend you order 2 stamps, one to keep at home.
+
+</details>
 
 ### changes
 
