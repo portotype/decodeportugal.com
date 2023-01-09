@@ -13,6 +13,7 @@ This is a Work in Progress ⚠️, we're about 1/3 of the way. Main topics:
 # General
 
 <details><summary>Power of Representation</summary>
+  
 In Portugal, representation by Power of Representation is called "Procuração". A "Procuração" will enable your lawyer or anyone else to do operations for you. They can be used to open a company, close a company and everything in between. 
 
 Generally the more powerful the powers enshrined in the PoR, the more specific it should be and careful you should be. In addition, there are several levels of formality of a PoR in Portugal. 
