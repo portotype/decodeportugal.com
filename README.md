@@ -12,7 +12,7 @@ This is a Work in Progress ⚠️, we're about 1/3 of the way. Main topics:
   
 # General
 
-<details><summary markdown='span'>Power of Representation</summary>
+<details markdown=1><summary>Power of Representation.</summary>
   
 In Portugal, representation by Power of Representation is called "Procuração". A "Procuração" will enable your lawyer or anyone else to do operations for you. They can be used to open a company, close a company and everything in between. 
 
@@ -30,7 +30,7 @@ When you grant powers to a lawyer it's called a Power of Attorney (PoA). The law
 
 Registering a company and being ready to operate.
 
-<details><summary markdown='span'>The Process.</summary>
+<details markdown=1><summary>The Process.</summary>
 
 Opening a company is fast, but be aware that it is not as fast as advertised. 
 
