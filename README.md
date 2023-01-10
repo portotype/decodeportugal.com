@@ -1,3 +1,5 @@
+## About Decode Portugal
+
 This is an open-source guide on opening and running companies in Portugal.
 
 This is a Work in Progress ⚠️, we're about 50% of the way. Main topics:
@@ -6,8 +8,10 @@ This is a Work in Progress ⚠️, we're about 50% of the way. Main topics:
 - ✔️ Opening for business 
 - Running a business
 - Closing a business 
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. This license applies to the content of this webpage. Any included documents are subject to this license as well, unless noted otherwise. Contact us if you have questions regarding the license.
   
-# General
+## General
 
 <details markdown=1><summary>Power of Representation.</summary>
   
@@ -23,7 +27,7 @@ When you grant powers to a lawyer it's called a Power of Attorney (PoA). The law
 
 </details>
 
-# Opening for Business
+## Opening for Business
 
 Registering a company and being ready to operate.
 
@@ -301,7 +305,7 @@ If you are buying it, we recommend you order 2 stamps, one to keep at home.
 
 </details>
 
-# Running a business
+## Running a business
 
 <details markdown=1><summary>⚠️ WIP</summary>
     - Accounting
@@ -335,7 +339,7 @@ If you are buying it, we recommend you order 2 stamps, one to keep at home.
 
 </details>
   
-# Closing a business
+## Closing a business
 
 <details markdown=1><summary>⚠️ WIP</summary>
 
@@ -343,7 +347,7 @@ Nothing here yet.
 
 </details>
     
-# How to make the process better.
+## How to make the process better.
 
 <details markdown=1><summary>Opening for business.</summary>
 
