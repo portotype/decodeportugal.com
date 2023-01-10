@@ -349,9 +349,8 @@ Nothing here yet.
     
 # How to make the process better.
 
-<details markdown=1><summary>What the Government could change in the process.</summary>
+<details markdown=1><summary>Opening for business.</summary>
 
-Opening for business
 - Registering a company: Create an easier guide (like the above *cof*) that is self-contained, accurate and useful.
 - Identification of Parties: speed up the process of obtaining a Portuguese identification number, NIF (people) or NIPC (companies), for EU nationals and foreigners.
 - Registering the company: picking a name: make picking urgent by default easier. Let the requester pick 3 options.
@@ -363,7 +362,10 @@ Opening for business
 - Ledger: Legislate and promote the usage of digital only ledgers (Livro de Atas). Consider adding them to a private section of the Commercial Register.
 - Stamp: Eliminate the requirement of stamp in all public documents and processes, and issue guidelines (or legislation) also for its elimination within finance documents.
 
-Running a Business
+</details>
+
+<details markdown=1><summary>Running a business.</summary>
+
 - ⚠️ wip
 - Hiring: promote using "simplified" (not requiring a chip-enabled ID card) digital signatures for everything, including hiring etc.
 
