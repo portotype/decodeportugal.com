@@ -351,7 +351,10 @@ Nothing here yet.
 <details markdown=1><summary>⚠️ WIP</summary>
 
 Things to change
-- Stamp
-- RCBE: no requirement to confirm every year.
+- Registering a company: Create an easier guide (like the above *cof*) that is self-contained, accurate and useful.
+- Identification of Parties: speed up the process of obtaining a Portuguese identification number, NIF (people) or NIPC (companies), for EU nationals and foreigners.
+- Registering the company: picking a name: make picking urgent by default easier. Let the requester pick 3 options.
+- Stamp: Eliminate the requirement of stamp in all public documents and processes, and issue guidelines (or legislation) also for its elimination within finance documents.
+- RCBE: eliminate the requirement to confirm the effective, beneficial owners every year if they aren't changed. Instead, send an email with a notice of who they are and prompt changes. Best: merge this registry with the information that is on the Commercial Register Certififcate ("Certidão Permanente").
 
 </details>
