@@ -4,8 +4,9 @@
 
 This is a short guide on opening and running companies in Portugal.
 
-This is a Work in Progress ⚠️, we're about 1/3 of the way. Main topics:
+This is a Work in Progress ⚠️, we're about 50% of the way. Main topics:
 
+- ✔️ General
 - ✔️ Opening for business 
 - Running a business
 - Closing a business 
@@ -348,13 +349,23 @@ Nothing here yet.
     
 # How to make the process better.
 
-<details markdown=1><summary>⚠️ WIP</summary>
+<details markdown=1><summary>What the Government could change in the process.</summary>
 
-Things to change
+Opening for business
 - Registering a company: Create an easier guide (like the above *cof*) that is self-contained, accurate and useful.
 - Identification of Parties: speed up the process of obtaining a Portuguese identification number, NIF (people) or NIPC (companies), for EU nationals and foreigners.
 - Registering the company: picking a name: make picking urgent by default easier. Let the requester pick 3 options.
+- RCBE: eliminate the requirement to confirm the effective, beneficial owners every year if they aren't changed. Instead, send an email with a notice of who they are and prompt changes if they exist. Also: a one-click should re-confirm the information. Best: merge this registry with the information that is on the Commercial Register Certificate ("Certidão Permanente"), and register the information there (on the Commercial Register), publicly.
+- Bank accounts: allow using EU and online banks to operate: provide a public facing API to do all payments to the state, including IRS, SS, fines etc.
+- Bank accounts: allow using EU and online banks to operate: provide a public facing Webside to do all payments to the state, including IRS, SS, fines etc.
+- Bank accounts: allow using EU and online banks to operate: implement an IBAN interface for every payment, instead of local, proprietary payments.
+- Bank accounts: promote fast opening and operating of bank accounts for business, which still require face-to-face KYC (know your customer) and paper-signing. Maybe for limited accounts with Deposits and payments only.
+- Ledger: Legislate and promote the usage of digital only ledgers (Livro de Atas). Consider adding them to a private section of the Commercial Register.
 - Stamp: Eliminate the requirement of stamp in all public documents and processes, and issue guidelines (or legislation) also for its elimination within finance documents.
-- RCBE: eliminate the requirement to confirm the effective, beneficial owners every year if they aren't changed. Instead, send an email with a notice of who they are and prompt changes. Best: merge this registry with the information that is on the Commercial Register Certififcate ("Certidão Permanente").
+
+Running a Business
+- ⚠️ wip
+- Hiring: promote using "simplified" (not requiring a chip-enabled ID card) digital signatures for everything, including hiring etc.
+
 
 </details>
