@@ -9,7 +9,7 @@ This is a Work in Progress ⚠️, we're about 50% of the way. Main topics:
 - Running a business
 - Closing a business 
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. This license applies to the content of this webpage. Any included documents are subject to this license as well, unless noted otherwise. Contact us if you have questions regarding the license.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. This license applies to the content of this webpage. Any included documents are subject to this license as well, unless noted otherwise. Contact us if you have questions regarding the license.
   
 ## General
 
