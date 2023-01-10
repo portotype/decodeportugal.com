@@ -62,8 +62,7 @@ To accomplish that you will need to gather the following people:
 
 </details>
 
-<details>
-<summary>Identify relevant parties.</summary>
+<details markdown=1><summary>Identify relevant parties.</summary>
 
 You will need to collect several identification elements for all significant parties involved in the company. That includes the shareholders, be them people or companies, and General Managers. 
 
@@ -94,7 +93,7 @@ To know: You will also need these elements for any companies and persons who are
 
 </details>
 
-<details><summary>Register the company.</summary>
+<details markdown=1><summary>Register the company.</summary>
 
 1. **Where to register your company**. There's 3 separate places to register a company.
     - Online: It has to be a laywer doing it. It costs 225€ as of 2022-11-23. The company will have standard articles, which you can customize later.
@@ -152,7 +151,7 @@ To know: You will also need these elements for any companies and persons who are
 
 </details>
 
-<details><summary>Name an official accountant.</summary>
+<details markdown=1><summary>Name an official accountant.</summary>
 
 - Your official accountant in Portugal is called the "Contabilista Certificado".
 - In a Limited and SAs, you are required to have a CC to operate. 
@@ -167,7 +166,7 @@ To know: You will also need these elements for any companies and persons who are
 
 </details>        
 
-<details><summary>File company details on Beneficiary Register.</summary>
+<details markdown=1><summary>File company details on Beneficiary Register.</summary>
 
 After you have a NIPC/NIF, you should file details of the effective beneficiaries of the company.
 
@@ -183,7 +182,7 @@ Result
 
 </details>
 
-<details><summary>Open a local Bank account.</summary>
+<details markdown=1><summary>Open a local Bank account.</summary>
 
 To operate in Portugal as a company, you must open an account with a Portuguese Bank. That's mostly because there's local payment methods which are mandatory and not available in international banks.
 
@@ -224,7 +223,7 @@ Bank accounts
 - Example: For all my companies I currently use the bank BPI with it's offering for companies called BPI Empresas, which you access on http://bpinetempresas.pt. 
 
 </details>
-<details><summary>Register as open for business in the Tax Office (“Autoridade Tributária”).</summary>
+<details markdown=1><summary>Register as open for business in the Tax Office (“Autoridade Tributária”).</summary>
 
 There's 4 paths:
 - If you filed a Certified Accountant (CC) during the registration phase, he can open the activity online.
@@ -235,7 +234,7 @@ There's 4 paths:
 
 </details>
 
-<details><summary>File the Social Security status of the General Manager.</summary>
+<details markdown=1><summary>File the Social Security status of the General Manager.</summary>
 
 After you open the company, the Social Security office will send the company a letter asserting a status to the General Manager, relative to an existence the employment of General Manager and its implied social security charges.
 
@@ -246,7 +245,7 @@ You will communicate or validate your status via registered mail.
 
 </details>
 
-<details><summary>Sign a Shareholders agreement (“Parassocial”).</summary>
+<details markdown=1><summary>Sign a Shareholders agreement (“Parassocial”).</summary>
 
 This is optional, but most likely you will want to sign one with your investors and co-founders.
 
@@ -263,7 +262,7 @@ This is a documente where typically you specify:
     - It's common that you are restricted from having another employment, and positions in related startups with more than x stake (2%, 10%, it varies).
 
 </details>
-<details><summary>Buy a ledger for the company decisions.</summary>
+<details markdown=1><summary>Buy a ledger for the company decisions.</summary>
 
 In Portugal you are required to maintain official minutes of key company decisions and events.
 
@@ -286,7 +285,7 @@ In Portugal you are required to maintain official minutes of key company decisio
 We found one online provider, not tested yet: [ArkeyvAta](https://www.arkeyvata.com/).
 
 </details>
-<details><summary>Buy an official stamp for the company.</summary>
+<details markdown=1><summary>Buy an official stamp for the company.</summary>
 
 While stamps are not in the law, many private contracts and public entities will ask you to stamp certain documents.
 
@@ -307,7 +306,7 @@ If you are buying it, we recommend you order 2 stamps, one to keep at home.
 
 # Running a business
 
-<details><summary>⚠️ WIP</summary>
+<details markdown=1><summary>⚠️ WIP</summary>
     - Accounting
         - Accounts submissions and Yearly accounts submission
         - TOC and ROC
@@ -341,7 +340,7 @@ If you are buying it, we recommend you order 2 stamps, one to keep at home.
   
 # Closing a business
 
-<details><summary>⚠️ WIP</summary>
+<details markdown=1><summary>⚠️ WIP</summary>
 
 Nothing here yet.
 
@@ -349,7 +348,7 @@ Nothing here yet.
     
 # How to make the process better.
 
-<details><summary>⚠️ WIP</summary>
+<details markdown=1><summary>⚠️ WIP</summary>
 
 Things to change
 - Stamp
