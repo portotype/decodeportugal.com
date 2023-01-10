@@ -1,8 +1,4 @@
-# Decode Portugal
-
-
-
-This is a short guide on opening and running companies in Portugal.
+This is an open-source guide on opening and running companies in Portugal.
 
 This is a Work in Progress ⚠️, we're about 50% of the way. Main topics:
 
