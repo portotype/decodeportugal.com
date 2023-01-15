@@ -2,14 +2,13 @@
 
 This is an open-source, complete guide on opening and running companies in Portugal.
 
-This is a Work in Progress ⚠️, we're about 50% of the way. Main topics:
+So far we have completed Opening a company.
 
-- ✔️ General
 - ✔️ Opening for business 
 - Running a business
 - Closing a business 
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. This license applies to the content of this webpage. Any included documents are subject to this license as well, unless noted otherwise. Contact us if you have questions regarding the license.
+This is a Work in Progress. We will add information about running your business and closing a business as we complete it. At the end there is a compilation of things that Portugal as a Country could improve in the process.
   
 ## General
 
@@ -118,10 +117,10 @@ To know: You will also need these elements for any companies and persons who are
             - You can transition companies between types, for example a "limitada" ("sociedade por quotas") can be turned into an SA ("sociedade anónima").
             - 📥 To add: Compare with other types of organizations in other Countries. 
         2. Name:
-            - You can pick the name from a pre-existing list in the go, which makes the process faster. 
-            - You can also pick the name yourself (custom name). This is called "Pedido de Certificado de Admissibilidade de firma ou denominação". There's 2 ways of doing this. Non-urgent: can take up to 15 days for an answer, and the answer can be "no", if it collides with another firms name, after which you need to start over the 15-day period when you submit the new option. You can do a test of similarity online. You can also appeal a negative decision. It costs 75€ to submit a new name as of 2022-11-23. Urgent: You get an answer within 1 business day. It costs 150€ as of 2022-11-23. If you register a company online, you get the urgent version for free. 
+            - You can pick the name from a pre-existing list as you are registering the company, which makes the process faster. 
+            - You can also pick the name yourself (custom name). This is called "Pedido de Certificado de Admissibilidade de firma ou denominação". There's 2 ways of doing this, Urgent and Non-urgent. If you register a company online, you get the urgent version for free. Urgent: You get an answer within 1 business day. It costs 150€ as of 2022-11-23. Non-urgent: can take up to 15 days for an answer, and the answer can be "no", if it collides with another firms name, after which you need to start over the 15-day period when you submit the new option. You can do a test of similarity online. You can also appeal a negative decision. It costs 75€ to submit a new name as of 2022-11-23.
             - If you register the company Online, you can submit a custom name during the process of registering the company. If you go to a Public Registration Office or a Notary and you want a custom name, you have to ask for the validation of the name before the registration day. When you ask for a custom name outside the company registration process, they will give you a code for that certificate which expires in 3 months. Anyone can do this online.
-            - To know: the legal name may be different from the name you use for the commercial activity. You can be called "Technical company 23, Lda" and use the name "Awesome Business". Generally, though, companies pick similar names.
+            - To know: the legal name may be different from the name you use for the commercial activity. You can be called "Technical company 23, Lda" and use the name "Awesome Business". Generally, though, companies pick legal and commercial names that match.
             - To know: You can always change your name later, in parallel with other processes. 
         3. Adress of the Head office ("Sede"). 
             - Address for the headquarters. 
@@ -351,7 +350,7 @@ Nothing here yet.
 
 <details markdown=1><summary>Opening for business.</summary>
 
-- Registering a company: Create an easier guide (like the above *cof*) that is self-contained, accurate and useful.
+- Registering a company: Create a guide about opening a company that is self-contained (complete), accurate and useful. Like this one!
 - Identification of Parties: speed up the process of obtaining a Portuguese identification number, NIF (people) or NIPC (companies), for EU nationals and foreigners.
 - Registering the company: picking a name: make picking urgent by default easier. Let the requester pick 3 options.
 - RCBE: eliminate the requirement to confirm the effective, beneficial owners every year if they aren't changed. Instead, send an email with a notice of who they are and prompt changes if they exist. Also: a one-click should re-confirm the information. Best: merge this registry with the information that is on the Commercial Register Certificate ("Certidão Permanente"), and register the information there (on the Commercial Register), publicly.
@@ -371,3 +370,7 @@ Nothing here yet.
 
 
 </details>
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. This license applies to the content of this webpage. Any included documents are subject to this license as well, unless noted otherwise. Contact us if you have questions regarding the license.
