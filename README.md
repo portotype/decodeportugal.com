@@ -1,6 +1,6 @@
 ## About Decode Portugal
 
-This is an open-source, complete guide on opening and running companies in Portugal.
+This is an open-source, complete guide on opening and running companies in Portugal. It was created from the experience of different people who have opened several companies both as operators and as lawyers.
 
 So far we have completed Opening a company.
 
@@ -306,47 +306,53 @@ If you are buying it, we recommend you order 2 stamps, one to keep at home.
 
 ## Running a business
 
-<details markdown=1><summary>⚠️ WIP</summary>
-    - Accounting
-        - Accounts submissions and Yearly accounts submission
-        - TOC and ROC
-        - SAFT & software
-    - Contracts
-        - Certidão Permanente.
-    - ✔️ Banking
-    - HR
-        - Hiring & Contracts
-            - Compensation and Costs
-            - contract types
-            - subsidio de alimentaçao
-            - work insurance
-            - teletrabalho
-            - Fundo de compensacao
-            - Bonus, prizes
-            - can foreigners be workers, do they need a visa?
-            - Perks & tax optimization
-        - Awarding shares (Stock Options)
-    - HR
-        - vacations 
-            - vacation upon exit. "one extra year".  
-        - acordos colectivos de trabalho
-        - holidays
-        - schedule, worktime registry
-        - vacations
-        - Leaves (sick, parental, "sem vencimento")
-        - templates 
+<details markdown=1><summary>Work in Progress</summary>
+
+⚠️
+This chapter is still just a structure of what we will want to do.
+
+- Accounting
+    - Accounts submissions and Yearly accounts submission
+    - TOC and ROC
+    - SAFT & software
+- Contracts
+    - Certidão Permanente.
+- ✔️ Banking
+- HR
+    - Hiring & Contracts
+        - Compensation and Costs
+        - contract types
+        - subsidio de alimentaçao
+        - work insurance
+        - teletrabalho
+        - Fundo de compensacao
+        - Bonus, prizes
+        - can foreigners be workers, do they need a visa?
+        - Perks & tax optimization
+    - Awarding shares (Stock Options)
+- HR
+    - vacations 
+        - vacation upon exit. "one extra year".  
+    - acordos colectivos de trabalho
+    - holidays
+    - schedule, worktime registry
+    - vacations
+    - Leaves (sick, parental, "sem vencimento")
+    - templates 
 
 </details>
   
 ## Closing a business
 
-<details markdown=1><summary>⚠️ WIP</summary>
+<details markdown=1><summary>Work in Progress</summary>
+
+⚠️
 
 Nothing here yet.
 
 </details>
     
-## How to make the process better.
+## How to make the process better
 
 <details markdown=1><summary>Opening for business.</summary>
 
