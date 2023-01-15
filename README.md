@@ -350,7 +350,6 @@ Nothing here yet.
 
 <details markdown=1><summary>Opening for business.</summary>
 
-- Registering a company: Create a guide about opening a company that is self-contained (complete), accurate and useful. Like this one!
 - 🔥 Identification of Parties: speed up the process of obtaining a Portuguese identification number, NIF (people) or NIPC (companies), for EU nationals and foreigners.
 - 🔥 Registering the company: picking a name: make the urgent by default. Let the requester pick several options.
 - 🔥 RCBE: eliminate the requirement to manuall re-confirm the effective, beneficial owners every year if they aren't changed. A one-click should re-confirm the information; As of 2023-01-15 you have to navigate a long form and re-fill some of the stuff even without changes. Better: Just send an email with a notice of who the currently registered beneficial owners are and prompt changes if they exist. Best: merge this registry with the information that is on the Commercial Register Certificate ("Certidão Permanente"), and register the information there (on the Commercial Register), publicly.
