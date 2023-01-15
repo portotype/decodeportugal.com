@@ -228,9 +228,9 @@ Bank accounts
 There's 4 paths:
 - If you filed a Certified Accountant (CC) during the registration phase, he can open the activity online.
 - If not:
-    - You go there the Managing Director (Gerente or Administrador) and ask to open activity, and deliver a stamp-sticker ("Vinheta") signed by the Certified Accountant.
+    - You go there the General Manager (Gerente or Administrador) and ask to open activity, and deliver a stamp-sticker ("Vinheta") signed by the Certified Accountant.
     - Your laywer goes there, with powers of representation, and does it for you in the setup of the previous case.
-    - The Certified Accountant can go there with the request for opening activity, signed by the Managing Director and with a copy of the MD's personal ID.
+    - The Certified Accountant can go there with the request for opening activity, signed by the General Manager and with a copy of the MD's personal ID.
 
 </details>
 
