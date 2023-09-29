@@ -9,6 +9,8 @@ So far we have completed Opening a company.
 - Closing a business 
 
 This is a Work in Progress. We will add information about running your business and closing a business as we complete it. At the end there is a compilation of things that Portugal as a Country could improve in the process.
+
+email humberto + email + com.
   
 ## General
 
