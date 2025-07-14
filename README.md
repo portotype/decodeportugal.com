@@ -308,6 +308,24 @@ If you are buying it, we recommend you order 2 stamps, one to keep at home.
 
 ## Running a business
 
+<details markdown=1><summary>Can you operate in Portugal without a Portuguese Bank?</summary>
+
+As of July 14th 2025, the short answer is that You cannot.
+- You can pay all your Tax duties [via IBAN](https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/Pagamentos/Como_pagar_no_estrangeiro/Paginas/default.aspx), but even then you are at a disadvantage, the process doesn't seem to be instantly validated, and you must submit prior validation of your bank account. 
+- AFAIK you cannot pay Social Security contributions via IBAN, only through manual options or Portugal-banks-only homebanking options.
+- Many business offer accept only local Payments (such as RefMB, MBWay) and not IBAN.
+- This reduces the banking options of companies who must rely on local players. It forces companies to maintain proper accounting of more accounts, as well as permissions and access details for separate accounts. This costs time and is more prone to errors.
+
+<details markdown=1><summary>Needed Improvements</summary>
+  
+- [ ] Include IBAN payment instructions in all payment requests by the state, including on Websites and PDFs.
+- [ ] Accept IBAN payments from any bank account, as long as the correct payment ID is there (Referência de Pagamento).
+- [ ] Improve the State banking system so that the status of payments is changing instantly after the State's bank receives the money with matching ID and amounts.
+  
+</details>
+</details>
+
+
 <details markdown=1><summary>Work in Progress</summary>
 
 ⚠️
