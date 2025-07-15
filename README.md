@@ -328,6 +328,8 @@ As of July 14th 2025, the short answer is that You cannot.
 
 <details markdown=1><summary>Yearly statistics submission (IES)</summary>
 
+In Portugal a company must submit a yearly data package with some stats. Not submitting this is punishable by law 🙄.
+
 <details markdown=1><summary>Needed Improvements</summary>
   
 - [ ] Make IES part of the website of AT.
