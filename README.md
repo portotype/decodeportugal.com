@@ -326,6 +326,17 @@ As of July 14th 2025, the short answer is that You cannot.
 </details>
 
 
+<details markdown=1><summary>Yearly statistics submission (IES)</summary>
+
+<details markdown=1><summary>Needed Improvements</summary>
+  
+- [ ] Make IES part of the website of AT.
+- [ ] Alternatively, create a full entry for company register with Company Registry Code (Certidão Permanente), Minutes Ledger (Livro de Atas) and this IES.
+  
+</details>
+
+</details>
+
 <details markdown=1><summary>Work in Progress</summary>
 
 ⚠️
